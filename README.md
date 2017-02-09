@@ -14,6 +14,10 @@
 
 ***
 
+[Скачать APK](https://github.com/VitaliBov/Tap-Tap-Tap/raw/master/android/android-release.apk)
+
+***
+
 |![Screenshot](https://github.com/VitaliBov/Screenshots-for-README/blob/master/S70204-14574460.jpg)|![Screenshot](https://github.com/VitaliBov/Screenshots-for-README/blob/master/S70204-14574997.jpg)|![Screenshot](https://github.com/VitaliBov/Screenshots-for-README/blob/master/S70204-14575510.jpg)|
 | ------------- |:------------------:| -----:|
 |![Screenshot](https://github.com/VitaliBov/Screenshots-for-README/blob/master/S70204-14591000.jpg)|![Screenshot](https://github.com/VitaliBov/Screenshots-for-README/blob/master/S70204-14580435.jpg)| |
